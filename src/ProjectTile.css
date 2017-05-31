@@ -1,0 +1,21 @@
+.project-tile {
+  width: 300px;
+  height: 300px;
+  display: block;
+  box-shadow: 3px 3px 10px 3px rgba(0,0,0,0.2);
+  background-color: white;
+  margin-top: 15px;
+  padding: 15px;
+}
+
+.project-tile h3 {
+  margin: 0;
+}
+
+.project-image {
+  width: 100%;
+}
+
+.cover-image {
+  margin-top: 15px;
+}

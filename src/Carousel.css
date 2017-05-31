@@ -1,0 +1,11 @@
+.Carousel {
+  white-space: nowrap;
+  height: 100%;
+}
+
+.Carousel > ul {
+  position: absolute;
+  margin: 0;
+  padding-left: 20px;
+  height: 100%;
+}
