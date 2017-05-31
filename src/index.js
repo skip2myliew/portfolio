@@ -6,7 +6,7 @@ import './index.css';
 
 render((
   <Router history={browserHistory}>
-    <Route path="/" component={App}>
+    <Route path="/portfolio" component={App}>
     {/*
       <Route path="about" component={About}/>
       <Route path="*" component={NoMatch}/>
